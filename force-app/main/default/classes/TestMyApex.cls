@@ -3,6 +3,7 @@ public with sharing class TestMyApex {
 
         system.debug('My test apex class');
         system.debug('added code');
+        system.debug('added code 2');
 
     }
 }
