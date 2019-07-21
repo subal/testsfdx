@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <label><!-- QuestionType --></label>
+        <name>QuestionType__c</name>
+        <picklistValues>
+            <masterLabel>Checkbox</masterLabel>
+            <translation><!-- Checkbox --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Drop-Down</masterLabel>
+            <translation><!-- Drop-Down --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Multiline text box</masterLabel>
+            <translation><!-- Multiline text box --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Radio button</masterLabel>
+            <translation><!-- Radio button --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Textbox</masterLabel>
+            <translation><!-- Textbox --></translation>
+        </picklistValues>
+    </CustomFieldTranslation>

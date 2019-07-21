@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <label><!-- Next Question --></label>
+        <name>Next_Question__c</name>
+        <relationshipLabel><!-- SurveyQuestionnaires (Next Question) --></relationshipLabel>
+    </CustomFieldTranslation>

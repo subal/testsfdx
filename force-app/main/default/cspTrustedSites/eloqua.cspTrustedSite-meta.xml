@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CspTrustedSite xmlns="http://soap.sforce.com/2006/04/metadata">
+    <context>All</context>
+    <endpointUrl>https://s1832238445.t.eloqua.com</endpointUrl>
+    <isActive>true</isActive>
+</CspTrustedSite>

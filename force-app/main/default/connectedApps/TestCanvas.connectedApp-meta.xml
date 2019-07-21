@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ConnectedApp xmlns="http://soap.sforce.com/2006/04/metadata">
+    <canvasConfig>
+        <accessMethod>Post</accessMethod>
+        <canvasUrl>https://testcanvas23.herokuapp.com/canvas</canvasUrl>
+        <samlInitiationMethod>None</samlInitiationMethod>
+    </canvasConfig>
+    <contactEmail>subal.chaudhari@mindtree.com</contactEmail>
+    <iconUrl>https://testcanvas23.herokuapp.com/icon.png</iconUrl>
+    <infoUrl>https://testcanvas23.herokuapp.com/welcome.jsp</infoUrl>
+    <label>TestCanvas</label>
+    <logoUrl>https://testcanvas23.herokuapp.com/logo.png</logoUrl>
+    <oauthConfig>
+        <callbackUrl>https://testcanvas23.herokuapp.com/callback</callbackUrl>
+        
+        <isAdminApproved>true</isAdminApproved>
+        <scopes>Basic</scopes>
+        <scopes>Chatter</scopes>
+    </oauthConfig>
+    <profileName>System Administrator</profileName>
+</ConnectedApp>
